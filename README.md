@@ -5,4 +5,4 @@ This project is the second project of the Udacity Front-end Nonodegree Program. 
 
 This project was built using a javascript helper to layout the structure of the page. 
 
-To view the site on github pages go to http://jshanks24.github.io/Udacity-Interactive-Resume
+To view the site on github pages go to https://github.com/PranavMudgil/Javascript-Resume.git
